@@ -1,2 +1,4 @@
 # Screenshare
-This code allows you to share your screen on a website. It has some lag but it won't cause any problems.
+### Written in HTML, CSS, JS and Python
+
+A basic python code using flask. It allows you to share your screen on a website.
